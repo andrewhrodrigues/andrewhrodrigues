@@ -12,8 +12,17 @@
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" title="SQL" alt="SQL"  height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
-  
  
+  <img align="center" title="PHP" alt="PHP"  height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php">
+  
+   <img align="center" title="JAVA" alt="JAVA"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+ 
+ <img align="center" title="Android" alt="Android"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
+  
+  <img align="center" title="MySQL" alt="MySQL"  height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  
+  <img align="center" title="node" alt="node"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> 
+  
 </div>
   
   
