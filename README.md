@@ -1,4 +1,4 @@
-## Olá, me chamo Andrew Rodrigues, sou professor de Tecnologia da Informação no Instituto Federal de São Paulo - IFSP 
+## Olá, me chamo Andrew Rodrigues, sou professor de Computação no Instituto Federal de São Paulo - IFSP 
 
 <div align="center">
   <a href="https://github.com/andrewhrodrigues">
